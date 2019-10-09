@@ -43,7 +43,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      33      | Thomas Böhm           | 5BHIF  | 8                            |
 |      34      | Lukas Mistlberger     | 5BHIF  | 10                           |
 |      35      |                       |        |                              |
-|      36      |                       |        |                              |
+|      36      | Adem Srndic           | 5BHIF  | 4                            |
 |      37      |                       |        |                              |
 |      38      | Armin Causevic        | 5BHIF  | 8                            |
 |      39      |                       |        |                              |
