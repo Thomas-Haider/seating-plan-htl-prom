@@ -42,7 +42,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      32      | Arian Kalenderi       | 4AFIT  |                              |
 |      33      | Thomas Böhm           | 5BHIF  | 8                            |
 |      34      | Lukas Mistlberger     | 5BHIF  | 10                           |
-|      35      |                       |        |                              |
+|      35      | Stefan Daniel         | 5BHIF  | 6                             |
 |      36      |                       |        |                              |
 |      37      |                       |        |                              |
 |      38      | Armin Causevic        | 5BHIF  | 8                            |
