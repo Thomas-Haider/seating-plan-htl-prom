@@ -44,7 +44,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      34      | Lukas Mistlberger     | 5BHIF  | 10                           |
 |      35      | Andreas Kastenhofer   | 5BHIF  | 10                           |
 |      36      | Adem Srndic           | 5BHIF  | 4                            |
-|      37      |                       |        |                              |
+|      37      | Stefan Daniel         | 5BHIF  | 6                            |
 |      38      | Armin Causevic        | 5BHIF  | 8                            |
 |      39      |                       |        |                              |
 |      40      | Deniz Ongun           | 4AFIT  | 6                            |
