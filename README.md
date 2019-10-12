@@ -42,9 +42,9 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      32      | Arian Kalenderi       | 4AFIT  |                              |
 |      33      | Thomas Böhm           | 5BHIF  | 8                            |
 |      34      | Lukas Mistlberger     | 5BHIF  | 10                           |
-|      35      | Stefan Daniel         | 5BHIF  | 6                             |
-|      36      |                       |        |                              |
-|      37      |                       |        |                              |
+|      35      | Andreas Kastenhofer   | 5BHIF  | 10                           |
+|      36      | Adem Srndic           | 5BHIF  | 4                            |
+|      37      | Stefan Daniel         | 5BHIF  | 6                            |
 |      38      | Armin Causevic        | 5BHIF  | 8                            |
 |      39      |                       |        |                              |
 |      40      | Deniz Ongun           | 4AFIT  | 6                            |
@@ -54,8 +54,8 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      44      |                       |        |                              |
 |      45      |                       |        |                              |
 |      46      |                       |        |                              |
-|      47      | Felix Leibetseder     | 5BHIF  | 10                           |
-|      48      | Peter Leitner         | 5BHIF  | 10                           |
+|      47      | Peter Leitner         | 5BHIF  | 10                           |
+|      48      | Felix Leibetseder     | 5BHIF  | 10                           |
 |      49      | Felix Leibetseder     | 5BHIF  | 10                           |
 |      50      | Martin Böhm           | 5BHIF  | 4                            |
 |      51      | Martin Böhm           | 5BHIF  | 4                            |
@@ -67,6 +67,6 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      57      | Thomas Brych          | 5BHIF  | 5                            |
 |      58      | Thomas Brych          | 5BHIF  | 5                            |
 |      59      | FlorianFriedl         | 5AHIF  |                              |
-|      60      |                       |        |                              |
+|      60      | Alex Tischlinger      | 5AHIF  | 4                            |
 |      61      | Florian Lehner        | 4AFIT  |                              |
          
