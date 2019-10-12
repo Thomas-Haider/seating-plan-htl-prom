@@ -67,6 +67,6 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      57      | Thomas Brych          | 5BHIF  | 5                            |
 |      58      | Thomas Brych          | 5BHIF  | 5                            |
 |      59      | FlorianFriedl         | 5AHIF  |                              |
-|      60      |                       |        |                              |
+|      60      | Alex Tischlinger      | 5AHIF  | 4                            |
 |      61      | Florian Lehner        | 4AFIT  |                              |
          
