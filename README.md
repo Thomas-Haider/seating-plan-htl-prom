@@ -51,7 +51,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      41      |                       |        |                              |
 |      42      |                       |        |                              |
 |      43      |                       |        |                              |
-|      44      |                       |        |                              |
+|      44      | Thomas Hadier         | 5BHIF  | 10                           |
 |      45      |                       |        |                              |
 |      46      |                       |        |                              |
 |      47      | Peter Leitner         | 5BHIF  | 10                           |
